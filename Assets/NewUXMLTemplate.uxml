@@ -1,0 +1,10 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Label text="Press Space to Start and then &quot;E&quot; to release" />
+    <engine:Label text="Change Radius using a/s" />
+    <engine:Label text="Speed (use q/w to control): " />
+    <engine:Label text="0" name="SpeedLabel" />
+    <engine:Label text="Mass (use z/x to control)" />
+    <engine:Label text="0" name="MassLabel" />
+    <engine:Label text="Impact On Target" />
+    <engine:Label text="0" name="ImpactLabel" />
+</engine:UXML>
